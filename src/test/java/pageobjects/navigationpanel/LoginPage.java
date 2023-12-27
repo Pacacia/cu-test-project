@@ -6,12 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-public class LoginPage {
-    public WebDriverWait wait;
-    public WebDriver driver;
+public class LoginPage extends BasePage {
     public LoginPage(WebDriver driver, WebDriverWait wait) {
-        this.driver = driver;
-        this.wait = wait;
+        super(driver,wait);
     }
     public String login() {
         WebElement navLogin = driver.findElement(By.id("login2"));

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="929c2780-8a67-44c4-a084-ccab021dd019" name="Changes" comment="" />
+    <list default="true" id="929c2780-8a67-44c4-a084-ccab021dd019" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/navigationpanel/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/MyTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/MyTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobjects/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobjects/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobjects/navigationpanel/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobjects/navigationpanel/LoginPage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,7 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2a504UkRvKXeothUgBnhZpHwNzt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +34,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/giorgipatsatsia/Downloads/testEX/driver&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -43,8 +51,11 @@
       <recent name="$PROJECT_DIR$/driver" />
       <recent name="$PROJECT_DIR$/driver/chromedriver_win32" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageobjects.navigationpanel" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.MyTests.test2">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="testEX" />
       <method v="2">
@@ -76,8 +87,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyTests.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CUProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MyTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MyTests.test2" />
         <item itemvalue="TestNG.MyTests.test1" />
       </list>
     </recent_temporary>
@@ -93,6 +123,8 @@
       <workItem from="1703592945901" duration="2228000" />
       <workItem from="1703595195247" duration="2697000" />
       <workItem from="1703630532252" duration="3000" />
+      <workItem from="1703630543795" duration="120000" />
+      <workItem from="1703683777081" duration="702000" />
     </task>
     <servers />
   </component>
